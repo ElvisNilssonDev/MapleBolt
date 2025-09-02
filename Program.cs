@@ -6,8 +6,7 @@
         {
             Console.WriteLine("welcome to MapleBolt");
             Console.ReadLine();
-            Console.WriteLine ("exiting MapleBolt");
-
+            Console.WriteLine ("mapleBolt is an Enterprise for checking my own stupidity");
         }
     }
 }
