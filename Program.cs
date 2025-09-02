@@ -6,6 +6,8 @@
         {
             Console.WriteLine("welcome to MapleBolt");
             Console.ReadLine();
+            Console.WriteLine ("exiting MapleBolt");
+
         }
     }
 }
